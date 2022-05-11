@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-@Smarterwes = the never ending pursuit of a smarter version of me.
+< @Smarterwes = the never ending pursuit of a smarter version of me.
 220511 "Learning" Goals/Status
 Objective: Full Stack Business Intelligence Developer
 Certified in Python for Everybody Specialization
